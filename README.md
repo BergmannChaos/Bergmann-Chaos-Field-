@@ -1,5 +1,6 @@
 # Bergmann Chaos Field & π-Stabilization
 
+<img src="https://via.placeholder.com/1200x400/0d1117/58a6ff?text=Bergmann+Chaos+Field+%E2%80%A2+%CF%80+Revolution" alt="Banner" width="100%">
 
 **Python-Implementierung des Chaos-Feldes mit π-Stabilisierung**  
 aus den Arbeiten von Gordon Bergmann (2026)
@@ -15,9 +16,7 @@ aus den Arbeiten von Gordon Bergmann (2026)
 
 - [Über das Projekt](#über-das-projekt)
 - [Installation](#installation)
-- [Verwendung](#verwendung)
 - [Hauptfunktionen](#hauptfunktionen)
-- [Beispielrechnungen](#beispielrechnungen)
 - [Zitieren](#zitieren)
 - [Lizenz](#lizenz)
 - [Kontakt & weiterführende Arbeiten](#kontakt--weiterführende-arbeiten)
@@ -41,3 +40,30 @@ cd Bergmann-Chaos-Field
 
 # 2. Abhängigkeiten installieren
 pip install -r requirements.txt
+
+---
+
+numpy >= 1.24
+matplotlib >= 3.7      # optional für Visualisierungen
+jupyterlab             # optional für interaktive Notebooks
+
+---
+
+@misc{bergmann2026pir,
+  author       = {Gordon Bergmann},
+  title        = {The π Revolution},
+  year         = {2026},
+  doi          = {10.5281/zenodo.19069473},
+  url          = {https://doi.org/10.5281/zenodo.19069473}
+
+---
+
+Lizenz MIT License – siehe LICENSE
+Du darfst den Code frei verwenden, verändern und weitergeben – solange der Copyright-Hinweis erhalten bleibt.
+
+Kontakt & weiterführende Arbeiten
+GitHub: BergmannChaos
+Zenodo-Serie: https://zenodo.org/records?q=creator:%22Gordon%20Bergmann%22
+Nächste Papers: Little Red Dots (Paper 60), Hubble-Tension-Update (Paper 61+), Gaia BH1/BH2-Anwendung
+
+Fragen, Issues, Pull Requests oder Kollaborationen jederzeit willkommen!
