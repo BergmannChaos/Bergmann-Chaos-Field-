@@ -1,6 +1,5 @@
 # Bergmann Chaos Field & π-Stabilization
 
-<img src="https://via.placeholder.com/1200x400/0d1117/58a6ff?text=Bergmann+Chaos+Field+%E2%80%A2+%CF%80+Revolution" alt="Banner" width="100%">
 
 **Python-Implementierung des Chaos-Feldes mit π-Stabilisierung**  
 aus den Arbeiten von Gordon Bergmann (2026)
